@@ -18,7 +18,6 @@ const projects = [
       "A desktop application for secure password management using AES encryption, SQLite storage, and a WebView-based HTML frontend for forms and dashboards.",
     image: "/projects/passwordManager.png",
     tags: ["Java", "JavaFX", "SQLite", "AES Encryption"],
-    demoUrl: "#",
     githubUrl: "https://github.com/Ranit-cpu/Java-01-Techplement.git",
   },
   {
@@ -28,7 +27,6 @@ const projects = [
     "Implemented a custom memory allocator in C/C++ that manages heap memory efficiently using techniques like free lists, block splitting, and coalescing. This project won the IBM Experts Lab National Hackathon 2025, showcasing high performance and low fragmentation in system-level applications.",
   image: "/projects/memory_allocator.jpeg",
   tags: ["C", "C++", "Memory Management", "Systems Programming", "Award-Winning"],
-  demoUrl: "#",
   githubUrl: "https://github.com/Ranit-cpu/IBM-2025.git",
 }
 
