@@ -31,9 +31,14 @@ export const Navbar = () => {
     >
       <div className="container flex items-center justify-between">
         <a
-          className="text-xl font-bold text-primary flex items-center"
+          className="text-xl font-bold text-primary flex items-center gap-4"
           href="#hero"
         >
+          <img
+            src="./ranit_icon.svg"
+            alt="Logo"
+            className="w-8 h-8 relative z-10"
+          />
           <span className="relative z-10">
             <span className="text-glow text-foreground"> RANIT's </span>{" "}
             Portfolio
